@@ -21,7 +21,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '小生不才',
   HEO_HERO_TITLE_2: '懒人分享',
   HEO_HERO_TITLE_3: 'AXhero',
-  HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_4: '小生不才',
   HEO_HERO_TITLE_5: 'AXhero个人主页',
   HEO_HERO_TITLE_LINK: 'https://home.axhero.dpdns.org/homepage/',
   // 英雄区遮罩文字
