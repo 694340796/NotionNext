@@ -51,7 +51,7 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: 'https://home.axhero.dpdns.org/homepage/',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'href="https://qm.qq.com/q/ZuQn3ybgKO"',
+  HEO_INFO_CARD_URL2: 'https://qm.qq.com/q/ZuQn3ybgKO"',
   HEO_INFO_CARD_ICON2: 'fab fa-qq',
   HEO_INFO_CARD_URL3: 'https://home.axhero.dpdns.org/homepage/',
   HEO_INFO_CARD_TEXT3: '了解更多',
